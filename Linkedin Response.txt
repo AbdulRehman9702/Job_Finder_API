@@ -1,0 +1,1165 @@
+{
+    "total_results": 116,
+    "jobs": [
+        {
+            "job_title": "Data Analyst - Remote",
+            "company": "Infina Health",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-remote-at-infina-health-4202601023?position=1&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=580H0WezHZDdohlEORnl9Q%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Fortray Global Service Limited",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-fortray-global-service-limited-4208081922?position=2&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=wVL1MX%2BMkGnse5ywn3yIMQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Zameen.com",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-zameen-com-4208649330?position=3&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=LZylN3d%2F7Wtcg22quU%2BbHQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Eon",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-eon-4186785720?position=4&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=zQmX3eNv2pww4Y7x1FANlg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Assembly Talent",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-assembly-talent-4212978423?position=5&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=MLH7UxkkK1ZQfy%2BwXEkvFg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Business Intelligence Analyst",
+            "company": "Dubizzle Labs",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/business-intelligence-analyst-at-dubizzle-labs-4208951209?position=6&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=CfguBQcQJMmyCUSUG03kjg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Team Lead - Python",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-team-lead-python-at-devsinc-4214012512?position=7&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=z6arfHzarOFZr8CNGJ6MJQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Junior Data Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/junior-data-analyst-at-translation-empire-pk-4166916281?position=8&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=hCgdAMOqzUGhcG08OrVzWg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "BI Analyst - II",
+            "company": "Pakistan Single Window (PSW)",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/bi-analyst-ii-at-pakistan-single-window-psw-4207754363?position=9&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=BzahmJX68ASDvQECQeUGAg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Reporting Analyst",
+            "company": "MediaRadar, Inc.",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/reporting-analyst-at-mediaradar-inc-4210912443?position=10&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=9Hcq4%2Ft7Mw84HEo2JhLzZA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Sr. Data Analyst",
+            "company": "Fusemachines",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/sr-data-analyst-at-fusemachines-4196043783?position=11&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=W4GMFoUdZeCioT85xYK3jg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Sr. Data Analyst",
+            "company": "Fusemachines",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-vyro-4202596400?position=12&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=%2FC%2Fp8irZuA1ekoeg6wNhpA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst (Marketing & Brand)",
+            "company": "Jeeny",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-marketing-brand-at-jeeny-4186688453?position=13&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=s%2BF2BrSiHW%2FgVBzVHCgfHQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Marketing Business Intelligence (BI) Analyst",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/marketing-business-intelligence-bi-analyst-at-devsinc-4145040391?position=14&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=7SpEF499NFFdd0%2Bs3mfUfQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "CureMD",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-curemd-4209692823?position=15&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=4%2FcplPyKY0XcuVHhLri7nQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Engineer",
+            "company": "Next Generation Innovations (NextGENi)",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karachi Division, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-engineer-at-next-generation-innovations-nextgeni-4180277577?position=16&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=PQRfkAxwH1W1K2IEYzQpdg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Research Executive",
+            "company": "NielsenIQ",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/research-executive-at-nielseniq-4192129086?position=17&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=n8nULifeE9QuctJM%2BckmDg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "AlGooru | القورو",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-algooru-%D8%A7%D9%84%D9%82%D9%88%D8%B1%D9%88-4212909121?position=18&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=FD8gUTYqHoN9xKrESjQ4ew%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Engineer",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-engineer-at-devsinc-4192812524?position=19&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=BSu%2FvtukQZUVl%2BZgvIlaqA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Abacus",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-abacus-4183904429?position=20&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=djPyeCDJRW17r6smNpg2Zw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Power BI Specialist (MS Power Platform)",
+            "company": "ibex. Pakistan",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/power-bi-specialist-ms-power-platform-at-ibex-pakistan-4197792432?position=21&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=LVktdQcpA19G2kCPFBon3Q%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-at-translation-empire-pk-4169353751?position=22&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=veUr6woA3hzV3Jwq3rB3fw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Research Intern",
+            "company": "PakWheels.com",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-research-intern-at-pakwheels-com-4183665790?position=23&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=Z%2Bmq0SRICRy2pByVY5h4cQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Consumer Data & Analytics Specialist",
+            "company": "Systems Limited",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/consumer-data-analytics-specialist-at-systems-limited-4214009893?position=24&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=pTMHhFUsux4jJtaRb4Dj2A%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Business Intelligence Analyst",
+            "company": "Daraz",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/business-intelligence-analyst-at-daraz-4206496225?position=25&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=zgUVfUe3W5HB8CIhhdSfJw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Business Intelligence Analyst",
+            "company": "Zameen.com",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/business-intelligence-analyst-at-zameen-com-4208164779?position=26&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=tGmeoWvootARdxFMOqfA4w%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Performance Specialist",
+            "company": "Daraz",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/performance-specialist-at-daraz-4202991858?position=27&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=qk4NAE70w7zIISEaOHRSsQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Performance Specialist",
+            "company": "Daraz",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-ii-at-careem-4208890758?position=28&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=D2QM%2Bm1bNmo7KiJNd2spIQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "KR112 Trainee Data Analyst (Onsite - Islamabad)",
+            "company": "Cybernetic Controls Ltd",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/kr112-trainee-data-analyst-onsite-islamabad-at-cybernetic-controls-ltd-4185450288?position=29&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=SZYR2mCb%2BmucLSbmmwrdwA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst - Data Operations, FIG Bank Rates",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-data-operations-fig-bank-rates-at-s-p-global-4173009862?position=30&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=av644BI5u0XLKmPBQYd8CQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Business Intelligence Analyst",
+            "company": "Dubizzle Labs",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-dubizzle-labs-4184584544?position=31&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=IsvZBaX%2FSt45UAq%2F4VFQhg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Analyst - Insights & Analytics",
+            "company": "Zones IT Solutions",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/analyst-insights-analytics-at-zones-it-solutions-4167037632?position=32&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=cagZGIibdpiyl8mKmpAUdQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Mid Data Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/mid-data-analyst-at-translation-empire-pk-4166897992?position=33&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=DPuc7KyjoCSfy7F3vG4FDQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer- Data Engineer",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-data-engineer-at-devsinc-4207773620?position=34&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=67fqrLZQwkOIlOtXwJvH2Q%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Specialist, Analyst",
+            "company": "foodpanda",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-specialist-analyst-at-foodpanda-4171841433?position=35&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=GZJVgOhiTpkHJujlwC3SVw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Reporting Dashboard Developer",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/reporting-dashboard-developer-at-translation-empire-pk-4181182410?position=36&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=0y8vgUw3zYvUgCSndyWdpw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Marketing Operations Data Analyst",
+            "company": "XTIUM",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/marketing-operations-data-analyst-at-xtium-4210101352?position=37&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=dlmHK0vOymt4Yfafl5oYbg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Manager Data Science",
+            "company": "Telenor",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/manager-data-science-at-telenor-4191887881?position=38&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=G4BtKI4izlCZeeQkR35izA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Business Intelligence & Sales Transformation Analyst",
+            "company": "Motive",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/business-intelligence-sales-transformation-analyst-at-motive-4184491776?position=39&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=kq4RDiEJKChukSSXRJhDUw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "DATABASE ENGINEER I",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/database-engineer-i-at-s-p-global-4188316493?position=41&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=O7cQRfdx646KM00jZbNxJg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Marketing Data Analyst",
+            "company": "dinCloud Pakistan, An ATSG Company",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/marketing-data-analyst-at-dincloud-pakistan-an-atsg-company-4212276118?position=42&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=SIbid%2FHN4RA1jIrjwAw8Sw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Associate commercial solution",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-associate-commercial-solution-at-s-p-global-4173687402?position=43&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=g%2F%2FX7IQEM5IBSMIoaDx0%2BA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Data Engineer",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-data-engineer-at-devsinc-4203215991?position=44&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=cw%2B4g3oBcXTsCYW1DB%2B7FA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst (Annotator)",
+            "company": "Cowlar Design Studio",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-annotator-at-cowlar-design-studio-4192900234?position=45&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=3R5a%2FYt2DV0PZcOvHaEaxg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Database Engineer",
+            "company": "Stewart Pakistan Private Limited",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/database-engineer-at-stewart-pakistan-private-limited-4209533145?position=46&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=zmSlN%2FXR605QIRo8aTrPyw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Database Engineer",
+            "company": "Stewart Pakistan Private Limited",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/python-intern-at-venturedive-4193161187?position=47&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=xKSfVRbEbW6G6ltiqruGsg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Lead Performance QC",
+            "company": "foodpanda",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/lead-performance-qc-at-foodpanda-4182716038?position=48&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=LyIj64m%2F4C3cth2Rjxogmg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Lead Performance QC",
+            "company": "foodpanda",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-engineer-at-creative-chaos-4191747549?position=49&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=nByD%2FN%2BGZrS8f6JfZZtFJw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Engineer",
+            "company": "TenX",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-engineer-at-tenx-4199412678?position=50&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=%2B4%2BGYbqPpHHfR2QVs9sj4w%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Engineering Intern (Leading to Full-time Role)",
+            "company": "Avanceon Middle East & South Asia",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-engineering-intern-leading-to-full-time-role-at-avanceon-middle-east-south-asia-4189119109?position=52&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=7RfaU6yrO9uNf%2FnvYUw8PQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer - Data Science",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-data-science-at-devsinc-4203215559?position=53&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=6v%2FJu5ZrWa%2F09PYiayPrtQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Interested in joining our team?",
+            "company": "Motive",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/interested-in-joining-our-team%3F-at-motive-4151730187?position=54&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=BasUjcZ8guq5iaI4RF%2FTyg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Data Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-data-analyst-at-translation-empire-pk-4166916283?position=55&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=fZgRchoYbJ%2FDKhQuthY60Q%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer - Data Science",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-data-science-at-devsinc-4203213938?position=56&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=%2FLU5AtEc8M6JxMOV%2FIzjGg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior MIS Analyst (Mashreq Global Network Pakistan)",
+            "company": "Mashreq",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-mis-analyst-mashreq-global-network-pakistan-at-mashreq-4193060244?position=57&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=f5kGHnLtIhiouBvk4svkTw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior MIS Analyst (Mashreq Global Network Pakistan)",
+            "company": "Mashreq",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-operations-associate-at-octus-4196426688?position=58&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=0R9NkqKJYvgiFmhe8lRPmQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Principal Data Engineer - II",
+            "company": "Pakistan Single Window (PSW)",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/principal-data-engineer-ii-at-pakistan-single-window-psw-4207767089?position=59&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=GZ9DSwaTNSdKObfP4IDVPA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Summer Intern",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/summer-intern-at-s-p-global-4207599943?position=60&pageNum=0&refId=dnVSnfheR6AZE0vqo1KVkQ%3D%3D&trackingId=lttemFq0pBsCunV5RXBH0Q%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Business Intelligence Analyst",
+            "company": "Zameen.com",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/business-intelligence-analyst-at-zameen-com-4208164779?position=1&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=oI3OiisB6tKOZOVgWIHW3w%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Performance Specialist",
+            "company": "Daraz",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/performance-specialist-at-daraz-4202991858?position=2&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=2a4IYefe3H9RNYErvxJ7ww%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst II",
+            "company": "Careem",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-ii-at-careem-4208890758?position=3&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=sbOXjayKYgWdPLmS2NaSrg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "KR112 Trainee Data Analyst (Onsite - Islamabad)",
+            "company": "Cybernetic Controls Ltd",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/kr112-trainee-data-analyst-onsite-islamabad-at-cybernetic-controls-ltd-4185450288?position=4&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=7cPkpPrCtV1Gk13iflIV%2Fw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Analyst - Data Operations, FIG Bank Rates",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-analyst-data-operations-fig-bank-rates-at-s-p-global-4173009862?position=5&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=DGGMycUu3KDeSbOoyYf%2Flw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Business Intelligence Analyst",
+            "company": "Dubizzle Labs",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-dubizzle-labs-4184584544?position=6&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=Hg3Zo0VrJynMZbeB5Sg99w%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Analyst - Insights & Analytics",
+            "company": "Zones IT Solutions",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/analyst-insights-analytics-at-zones-it-solutions-4167037632?position=7&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=mRo2eMbESrF1J86ZOwuoBQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Mid Data Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/mid-data-analyst-at-translation-empire-pk-4166897992?position=8&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=oZd6J4jadtIyIHWBfrBTTw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer- Data Engineer",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-data-engineer-at-devsinc-4207773620?position=9&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=u72DJHPf4bpTANdX2spglg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Specialist, Analyst",
+            "company": "foodpanda",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-specialist-analyst-at-foodpanda-4171841433?position=10&pageNum=2&refId=AwqYAurHf2jFanTWOd6%2F6w%3D%3D&trackingId=L%2FcZiUGxjz%2BjXU3AQVgeFQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Engineering Intern (Leading to Full-time Role)",
+            "company": "Avanceon Middle East & South Asia",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-engineering-intern-leading-to-full-time-role-at-avanceon-middle-east-south-asia-4189119109?position=2&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=HaKX5znoGLHXrED9fwzpdQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer - Data Science",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-data-science-at-devsinc-4203215559?position=3&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=YW2u6lLyLinMtw0cJ5EYtQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Interested in joining our team?",
+            "company": "Motive",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/interested-in-joining-our-team%3F-at-motive-4151730187?position=4&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=3re7qyqGviU8T2tc2htQKA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Data Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-data-analyst-at-translation-empire-pk-4166916283?position=5&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=i6LLnpt9cUprxs0QSwrMwQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer - Data Science",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-data-science-at-devsinc-4203213938?position=6&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=gJJYM1PztLfVwClAhxl7Vg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior MIS Analyst (Mashreq Global Network Pakistan)",
+            "company": "Mashreq",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-mis-analyst-mashreq-global-network-pakistan-at-mashreq-4193060244?position=7&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=Lym9InqhVaCkLClKqhFvZg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Operations Associate",
+            "company": "Octus",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-operations-associate-at-octus-4196426688?position=8&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=aMDKLlHehnkcYh%2BG8Hcozg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Principal Data Engineer - II",
+            "company": "Pakistan Single Window (PSW)",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/principal-data-engineer-ii-at-pakistan-single-window-psw-4207767089?position=9&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=kHYyEGf9u0m%2FAgPl4oMSnw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Summer Intern",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/summer-intern-at-s-p-global-4207599943?position=10&pageNum=5&refId=I%2BA8SiVEqUWh31lCCqM7Vw%3D%3D&trackingId=%2F5XNkMBR%2Fuzdh7NyJ%2B6JBQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer- AI/ML",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-ai-ml-at-devsinc-4207775546?position=1&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=SBrCeWASDxRPvf%2F1bv5HSw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data/ML Engineer",
+            "company": "Rocktech Digital",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-ml-engineer-at-rocktech-digital-4210722477?position=2&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=lUZ%2BlwG2SGetbgT5mJXk%2Fg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Trainee Data Scientist",
+            "company": "Programmers Force",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/trainee-data-scientist-at-programmers-force-4208036301?position=3&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=Bjug2iSEjhI7sY0NJsxJYA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Sr. Data Scientist",
+            "company": "Fusemachines",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/sr-data-scientist-at-fusemachines-4205473718?position=4&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=IHqe5khPGBuk5fLhDpYiIw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Remote Analytics Engineer",
+            "company": "DigitalTolk",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/remote-analytics-engineer-at-digitaltolk-4182884170?position=5&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=Qc22df5vX2SYfJ3Qs2Ptow%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Database Engineer",
+            "company": "Softech Worldwide",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karachi Division, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/database-engineer-at-softech-worldwide-4203255907?position=6&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=IeAfIfssgtyxj6LrmkcCLg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Governance- Purview Analyst",
+            "company": "Beyond Key",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Hyderabad, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-governance-purview-analyst-at-beyond-key-4195336378?position=7&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=qb0sC176k59lQZgOkhkwfQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Sr. Data Engineer",
+            "company": "Fusemachines",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/sr-data-engineer-at-fusemachines-4189690158?position=8&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=dFpTeH%2B0cdXRyj8MySFvfg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Research Analyst",
+            "company": "The Insights Desk Inc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/research-analyst-at-the-insights-desk-inc-4154755145?position=9&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=m2bs2TcvgKNnJ9%2Fu5TN3Ew%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Research Assistant",
+            "company": "Gigalabs (Pvt) Ltd.",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/research-assistant-at-gigalabs-pvt-ltd-4164948076?position=10&pageNum=7&refId=SyCYlUdVBjxngU7FStgk2A%3D%3D&trackingId=gRsZfgmx3KZ3fQFLHYsE%2FQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Research Analyst",
+            "company": "Translation Empire PK",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Rawalpindi, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/research-analyst-at-translation-empire-pk-4166909913?position=1&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=LACMmNmQoMH8Y%2Bc7Gt6zpw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Business Intelligence Analyst",
+            "company": "Nexera Design Group",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-business-intelligence-analyst-at-nexera-design-group-4120920340?position=2&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=2t063L%2FeKGAGEkcvoLG8Xw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Expert, Quality",
+            "company": "foodpanda",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/expert-quality-at-foodpanda-4192056467?position=3&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=VFFgl4Z8W1GOUd05sjSpJQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer - AI/ML",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-ai-ml-at-devsinc-4198402615?position=4&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=H4js999IB7iW8BfO7lwTPg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Technical Business Analyst",
+            "company": "Arbisoft",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/technical-business-analyst-at-arbisoft-4206001299?position=5&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=0W6RZtOqYYgjmm%2BbumdXIA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Systems Engineer",
+            "company": "Creative Chaos",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/systems-engineer-at-creative-chaos-3706056086?position=6&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=A%2FpqMEMun5iWIh0sidoFPQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Trainee Application Developer",
+            "company": "Crescent Steel and Allied Products Limited",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/trainee-application-developer-at-crescent-steel-and-allied-products-limited-4185908613?position=7&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=BxSW%2FHVsnkFzpkKXLHRVQA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Application Security Analyst",
+            "company": "CureMD",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/application-security-analyst-at-curemd-4175141134?position=8&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=D8Do3NDocobnyrUoX43qNw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Software Engineer- Python",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-software-engineer-python-at-devsinc-4207771912?position=9&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=Z4VY%2Fbku6Xyp2QSFz4768A%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior System Analyst",
+            "company": "Dubizzle Labs",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-system-analyst-at-dubizzle-labs-4175039462?position=10&pageNum=10&refId=uxJP%2BBB%2BfTLTfLW%2BQ6Au3Q%3D%3D&trackingId=FjkHEFoA26lysxIShxnLjA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Statistical analysis of prevalence of diseases and potential risk factors among newborns in major cities of Punjab",
+            "company": "Government  College University, Faisalabad",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Faisalabad, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/statistical-analysis-of-prevalence-of-diseases-and-potential-risk-factors-among-newborns-in-major-cities-of-punjab-at-government-college-university-faisalabad-3678475115?position=1&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=U%2F2YYO5QWGlFq7d4MeMRsw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Outreach Specialist",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/outreach-specialist-at-s-p-global-4178560023?position=2&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=S0zpaT9FJAoWCit8RbjM%2Fw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Data Scientist",
+            "company": "Covalense Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Data Chandio, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/data-scientist-at-covalense-global-4207504346?position=3&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=PSVyDndGFo%2BM%2F34szq94PA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Sr Data Researcher I, Data/Content Management",
+            "company": "S&P Global",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/sr-data-researcher-i-data-content-management-at-s-p-global-4188312896?position=4&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=dZQf3ZciKjWBD6VK6oj8aQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Lead AI Engineer",
+            "company": "Pakistan Single Window (PSW)",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karāchi, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/lead-ai-engineer-at-pakistan-single-window-psw-4209622258?position=5&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=RIOaqMG8y4g9AyCjnl%2Fhaw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Practice Lead (Data Science )",
+            "company": "Royal Cyber Inc.",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/practice-lead-data-science-at-royal-cyber-inc-3977756743?position=7&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=VDJPUk69CfSTvAj56oszQQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Quality Control Analyst",
+            "company": "ibex. Pakistan",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/quality-control-analyst-at-ibex-pakistan-4208045596?position=8&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=%2BgNvAlibRPzF2mnXEyyjAA%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Computer Vision Engineer",
+            "company": "IRVINEi",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Karachi Division, Sindh, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/computer-vision-engineer-at-irvinei-4208648519?position=9&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=ipz0Ki5VAeFlMXu2jlW5Ww%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Technical Lead",
+            "company": "Cogent Labs",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/technical-lead-at-cogent-labs-4187726068?position=10&pageNum=12&refId=u0D%2Fsp97tI3lAyKQEF5ufw%3D%3D&trackingId=82kk5kO0abFQkWaIGWvoyQ%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Salesforce Developer",
+            "company": "Rolustech",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/salesforce-developer-at-rolustech-4209534143?position=1&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=3YnaGrJoKdJRRZlI2hB%2BLg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Product AnalystFULL TIME",
+            "company": "SolutionInn",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/product-analystfull-time-at-solutioninn-4058758764?position=2&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=mjPDHSsJEi0uD%2F9z9YNjYg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Power BI Engineer",
+            "company": "Confiz",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-power-bi-engineer-at-confiz-4190414565?position=3&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=erITAk6EkwCl1Ys90Ko0Pg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Trainee Machine Learning Engineer",
+            "company": "Tekvaly",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/trainee-machine-learning-engineer-at-tekvaly-4201036609?position=4&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=tPdOuv%2Bzns6%2F85AsAeRAKg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Business Intelligence Engineer (8+ Years)",
+            "company": "Manafa Technologies",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/business-intelligence-engineer-8%2B-years-at-manafa-technologies-4182764414?position=5&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=LRZ6dE%2BhwIuBdYm9d5xm6g%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Remote Data Scientist - 17843",
+            "company": "Turing",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/remote-data-scientist-17843-at-turing-4210629802?position=6&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=%2FPyAtGyrS7opzqBIhA%2Ba%2Bg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Associate Business Analyst",
+            "company": "Devsinc",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associate-business-analyst-at-devsinc-4173777373?position=7&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=huo9Ab8d7XbyswtJCgzVUg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Power BI Developer",
+            "company": "CodeNinja Inc.",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/senior-power-bi-developer-at-codeninja-inc-4182020938?position=8&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=I6ityYA841W9pJbyFf7pBw%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "Senior Power BI Developer",
+            "company": "CodeNinja Inc.",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Lahore, Punjab, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/associates-researcher-tech-focused-at-programmers-force-4199239514?position=9&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=RZRGfO6kUGlInWhpnVYBmg%3D%3D",
+            "source": "LinkedIn"
+        },
+        {
+            "job_title": "ML Engineer",
+            "company": "Fusemachines",
+            "experience": "2 years",
+            "jobNature": "onsite",
+            "location": "Islamabad, Islāmābād, Pakistan",
+            "salary": "70,000 PKR to 120,000 PKR",
+            "apply_link": "https://pk.linkedin.com/jobs/view/ml-engineer-at-fusemachines-4212175213?position=10&pageNum=15&refId=6%2B7Vpbx%2FjgWl%2FnpTEyYmPA%3D%3D&trackingId=qU8Kl2Cs5HdmGbG%2B4HHB5Q%3D%3D",
+            "source": "LinkedIn"
+        }
+    ]
+}
